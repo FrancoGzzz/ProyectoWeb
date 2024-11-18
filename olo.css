@@ -1,0 +1,46 @@
+body
+{
+  background-color: bisque;
+}
+.quep
+{background-image: url(https://imgv3.fotor.com/images/gallery/Purple-gradient-background.jpg);
+-webkit-text-fill-color: transparent;
+-webkit-background-clip: text;
+
+}
+
+.login
+{
+  a:hover {
+    background-color: darkkhaki;
+    font-size: 18px;
+  }
+}
+.quep
+{ background-color: burlywood;
+height: %;}
+p
+
+{color: darkslategrey;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 15px;
+text-align: left;}
+
+header
+{ text-align: center;
+
+}
+  
+u
+{color: darkslategrey;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+i
+{color: darkslategrey;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+q 
+{color: darkslategrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+  

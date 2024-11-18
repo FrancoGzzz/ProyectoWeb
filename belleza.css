@@ -1,0 +1,57 @@
+body
+.onn
+{
+    background-color: antiquewhite;
+border: 2cap;
+}
+
+.former
+{
+  a:hover {
+    background-color: rgb(156, 148, 35);
+    font-size: 18px;
+  }
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100vh;
+    margin: 0;
+}
+
+.cuadro {
+    background-color: white;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+.cuadro h2 {
+    position: absolute;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.cuadro p {
+    font-size: 1em;
+    line-height: 1.5;
+    
+}
+ 
+    
+
+
+
+
+
+
